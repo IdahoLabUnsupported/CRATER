@@ -1,3 +1,10 @@
+> [!WARNING]
+> **This repository has been archived and is no longer maintained.**
+> The code is provided for historical reference and may contain unpatched
+> or unknown vulnerabilities. It should not be used in production systems.
+
+---
+
 # CRATER (CyTRICS Repository of Analysis Tools and Engineering Resources)
 This repository provides a collection of tools developed to assist the [CyTRICS](https://cytrics.inl.gov/) program in enumerating the components of critical infrastructure systems and identifying vulnerabilities in them.
 
